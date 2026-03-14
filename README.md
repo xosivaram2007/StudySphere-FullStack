@@ -1,6 +1,6 @@
 # StudySphere – Fullstack Study & Task Manager
 
-StudySphere is a **fullstack web application** that helps students organize their learning projects, tasks, and notes. It is designed as a **resume‑ready internship project** showcasing both backend and frontend skills.
+StudySphere is a **fullstack web application** that helps students organize their learning projects, tasks, and notes. It is designed as a **developed project** showcasing both backend and frontend skills.
 
 ---
 
@@ -90,10 +90,4 @@ Then open `http://localhost:3000` in a browser.
 
 ---
 
-## How to Describe This Project on a Resume
-
-> **StudySphere – Fullstack study & task manager (Flask, SQL, Next.js, Tailwind)**  
-> Built a fullstack web app where users register/login, manage study projects, tasks, and notes. Implemented a Flask REST API with JWT authentication and SQLAlchemy models (User/Project/Task/Note), and a modern Next.js + Tailwind frontend with dedicated login/register views that integrate with the API.
-
-This repository is a good base to continue expanding features (dashboard, project CRUD, task lists, analytics) while already being presentable for internships.
 
